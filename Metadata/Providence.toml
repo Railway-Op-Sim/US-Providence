@@ -1,0 +1,16 @@
+rly_file = "Providence.rly"
+ttb_files = [ "Providence.ttb",]
+ssn_files = [ "Providence_start_routes.ssn",]
+img_files = [ "Providence.bmp",]
+doc_files = [ "README.md",]
+release_date = "2026-07-14"
+version = "1.0.0"
+country_code = "US"
+factual = true
+description = ""
+year = 2026
+display_name = "Providence"
+name = "Providence"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
