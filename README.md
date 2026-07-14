@@ -54,7 +54,7 @@ release_date = "2021-10-10"
 ```
 
 
-![Image of Current State of Map](Images/New_Haven_NEC.bmp)
+![Image of Current State of Map](Images/Providence.bmp)
 
 ## Current Status
 
